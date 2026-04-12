@@ -33,7 +33,8 @@ This repository contains my SQL practice using a real-world sales dataset.
 ## 📅 Progress  
 
 - Day 1 ✅  
-- Day 2 ⏳  
+- Day 2 ✅ 
+- Day 3 ⏳ 
 
 ---
 
