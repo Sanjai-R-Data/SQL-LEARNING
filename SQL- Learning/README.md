@@ -35,7 +35,8 @@ This repository contains my SQL practice using a real-world sales dataset.
 - Day 1 ✅  
 - Day 2 ✅ 
 - Day 3 ✅ 
-- Day 4 ⏳ 
+- Day 4 ✅ 
+- Day 5 ⏳ 
 
 ---
 
